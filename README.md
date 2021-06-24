@@ -15,7 +15,7 @@ Dual decomposition solvers for the quadratic assignment problem (QAP), also call
 We use the input format of the solver [4], see [here](http://pub.ist.ac.at/~vnk/software.html) for the definition of this format.
 
 ## Installation
-Type `git clone https://github.com/pawelswoboda/LP_MP-QAP.git` to download the main repository and `git submodule update --init --remote --recursive` the dependencies. Then type `cmake .` to configure and `make` to build.
+Type `git clone https://github.com/cxxszz/LP_MP-QAP.git` to download the main repository and `git submodule update --init --remote --recursive` the dependencies. Then type `cmake .` to configure and `make` to build.
 
 ## References
 * [1]: `Swoboda, P., Rother, C., Abu Alhaija, H., Kainmuller, D. and Savchynskyy, B.  A Study of Lagrangean Decompositions and Dual Ascent Solvers for Graph Matching.  CVPR, July 2017.`
